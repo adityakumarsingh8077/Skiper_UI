@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# 🚀 Skiper UI Playground
+
+![Learning Skiper UI](https://img.shields.io/badge/Learning-Skiper%20UI-9A40FF?style=for-the-badge&logo=codeforces&logoColor=white)
+
+![Built with Skiper UI](https://img.shields.io/badge/Built%20with-Skiper%20UI-7B61FF?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+A fun repo exploring Skiper UI's prebuilt components...
+
+# Skiper_UI
+Exploring the Skiper UI component library — a modern UI toolkit offering prebuilt, animated, and creative UI components. This repo includes my experiments, learning notes, and a project built using Skiper UI components like AI Input, Card Swiper, CursorTrail, etc.
+
+## 🔍 What is Skiper UI?
+
+Skiper UI is a modern component library that offers ready-to-use and animated UI elements like AI inputs, card carousels, theme toggles, and creative effects like cursor trails — helping developers build slick UIs with minimal effort.
+
+>>>>>>> 2e32be629f374306b7d014f0aa6bd8677541bdb3
