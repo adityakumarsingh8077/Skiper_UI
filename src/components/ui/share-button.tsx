@@ -36,8 +36,8 @@ const ShareButton = ({
       <Button
         className={cn(
           "relative min-w-40  rounded-3xl ",
-          "bg-white dark:bg-black",
-          "hover:bg-gray-50 dark:hover:bg-gray-950",
+          "bg-white dark:oklch(27.4% 0.006 286.033)",
+          "hover:bg-gray-50 dark:hover:oklch(27.4% 0.006 286.033)",
           "text-black dark:text-shadow-white",
           "border border-black/10 dark:border-white/10",
           "transition-all duration-300",

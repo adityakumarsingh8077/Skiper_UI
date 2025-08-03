@@ -21,7 +21,7 @@ const WrapButton: React.FC<WrapButtonProps> = ({
         <Link href={href}>
           <div
             className={cn(
-              "group cursor-pointer border group border-[#3B3A3A] bg-[#151515] gap-2  h-[64px] flex items-center p-[11px] rounded-full",
+              "group cursor-pointer border group border-[#3B3A3A] bg-[#1B9986)] gap-2  h-[64px] flex items-center p-[11px] rounded-full",
               className
             )}
           >
@@ -41,7 +41,7 @@ const WrapButton: React.FC<WrapButtonProps> = ({
       ) : (
         <div
           className={cn(
-            "group cursor-pointer border group border-[#3B3A3A] bg-[#151515] gap-2  h-[64px] flex items-center p-[11px] rounded-full",
+            "group cursor-pointer border group border-[#3B3A3A] bg-[#F6F6F6] gap-2  h-[64px] flex items-center p-[11px] rounded-full",
             className
           )}
         >

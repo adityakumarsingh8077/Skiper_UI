@@ -1,2 +1,6 @@
 @import "tailwindcss";
 @import "tw-animate-css";
+html
+{
+    background-color:oklch(70.8% 0 0);
+}
